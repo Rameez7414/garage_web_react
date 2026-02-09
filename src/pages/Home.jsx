@@ -51,7 +51,7 @@ function Home() {
 
           <div className="mt-10 flex justify-center gap-4">
             <a
-              href="tel:+919999999999"
+              href="tel:+917045369196"
               className="bg-red-600 px-8 py-4 rounded-full font-semibold hover:bg-red-700 transition"
             >
               Call Now
